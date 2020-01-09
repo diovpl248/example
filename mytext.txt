@@ -1,1 +1,9 @@
-asdasd
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	// test code
+	return 0;
+}
